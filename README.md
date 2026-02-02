@@ -1,70 +1,78 @@
-<!-- header với ảnh / banner, bạn có thể đổi URL ảnh nếu muốn -->
-<h1 align="center">Xin chào 👋, mình là Lê Trung Kiên</h1>
+<h1 align="center">👋 Hi, I'm Lê Trung Kiên</h1>
 
 <p align="center">
   <a href="https://letrungkienprofiles.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Live%20Website-online-brightgreen?style=for-the-badge" alt="Website Status" />
+    <img src="https://img.shields.io/badge/🌐%20Website-Online-brightgreen?style=for-the-badge" />
   </a>
   <a href="https://github.com/jayetcixgaming2010" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-jayetcixgaming2010-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
+    <img src="https://img.shields.io/badge/GitHub-jayetcixgaming2010-181717?style=for-the-badge&logo=github" />
   </a>
-  <img src="https://img.shields.io/badge/Made%20with-❤️%20%26%20HTML%2FCSS%2FJS-orange?style=for-the-badge" alt="Tech Stack" />
+  <img src="https://img.shields.io/badge/Made%20with-❤️%20HTML%20%7C%20CSS%20%7C%20JS-orange?style=for-the-badge" />
 </p>
 
 <p align="center">
-  🎒 Học sinh cấp 3 | Đam mê lập trình  
-  🌱 Hiện tại mình đang huấn luyện AI code Bot Discord, Website, App bằng Python, JavaScript, HTML & CSS  
-  📚 Đang phát triển kỹ năng qua các dự án nhỏ & học tập  
+  🎒 High School Student  
+  💻 Web Developer & Discord Bot Developer  
+  🚀 Passionate about coding, learning, and building real projects
 </p>
 
 ---
 
-## 🧑‍💻 Về mình
+## 👨‍💻 About Me
 
-- 🎯 Mục tiêu: Trở thành Web Developer / Fullstack trong tương lai  
-- 🔭 Hiện đang học và thực hành các dự án nhỏ (web cá nhân, mini game, trang tĩnh, v.v.)  
-- 📖 Luôn học thêm mỗi ngày: thuật toán, cấu trúc dữ liệu, thiết kế web  
-- 💡 Tạo bản thân khác biệt: code chất, profile đẹp, kiến thức vững  
+- 👋 My name is **Lê Trung Kiên**, a high school student with a strong passion for programming and technology  
+- 🌱 Currently learning and practicing:
+  - **Web Development**: HTML, CSS, JavaScript
+  - **Discord Bot Development**: Python & JavaScript
+- 🔧 I enjoy building **Discord bots**, **personal websites**, and **small real-world projects**
+- 🎯 Long-term goal: **Become a Fullstack Web Developer**
 
 ---
 
-## 🛠 Kỹ năng & Công nghệ
+## 🛠 Skills & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,netlify,github" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,tailwind,github,netlify,sqlite" />
 </p>
 
----
-
-## 🚀 Dự án nổi bật
-
-| Tên dự án | Mô tả ngắn | Link |
-|----------|-------------|------|
-| Trang blog cá nhân / portfolio | Trang cá nhân + blog nhỏ để trưng dự án | https://10a2k26thptquelam.netlify.app/ |
-| Trang profile dự án | Trang profile để trình bày resume + dự án | https://letrungkienprofiles.netlify.app/ |
-
-Bạn có thể thêm các dự án khác như: web app nhỏ, game mini, script Python…
+- 🌐 Frontend: HTML, CSS, JavaScript, Tailwind CSS  
+- 🤖 Discord Bots: Python (discord.py), JavaScript (discord.js)  
+- 🗄 Databases: SQLite  
+- ⚙ Tools & Platforms: GitHub, Netlify  
 
 ---
 
-## 📊 Thống kê hoạt động GitHub
+## 🚀 Featured Projects
+
+| Project | Description | Link |
+|------|------------|------|
+| 🌐 Class Website / Portfolio | Website showcasing class activities and content | https://10a2k26thptquelam.netlify.app/ |
+| 👤 Personal Profile Website | Personal portfolio, resume, and projects | https://letrungkienprofiles.netlify.app/ |
+| 🤖 Discord Bots | Anti-raid, verification, and server management bots | *(In progress)* |
+
+> 💡 I regularly update my projects to improve my skills and learn new technologies.
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
-  ![](https://github-readme-stats.vercel.app/api?username=jayetcixgaming2010&show_icons=true&theme=tokyonight)  
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=jayetcixgaming2010&theme=tokyonight)  
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jayetcixgaming2010&layout=compact&theme=tokyonight)
+  <img src="https://github-readme-stats.vercel.app/api?username=jayetcixgaming2010&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayetcixgaming2010&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayetcixgaming2010&layout=compact&theme=tokyonight" />
 </div>
 
 ---
 
-## 🔗 Liên kết & liên hệ
+## 🔗 Contact & Links
 
-- 🌐 Website / Portfolio: https://10a2k26thptquelam.netlify.app/  
-- 💼 Profile dự án: https://letrungkienprofiles.netlify.app/  
-- 📫 Email: letrungkien2k10phutho@gmail.com 
-- 📱 Facebook: https://www.facebook.com/le.trung.kien.2k10/
+- 🌐 Website: https://10a2k26thptquelam.netlify.app/  
+- 💼 Project Profile: https://letrungkienprofiles.netlify.app/  
+- 📧 Email: **letrungkien2k10phutho@gmail.com**  
+- 📘 Facebook: https://www.facebook.com/le.trung.kien.2k10/
 
 ---
 
-*“Học hôm nay để không phải hối tiếc ngày mai”*
-
+<p align="center"><i>"Learn today to become stronger tomorrow."</i></p>
