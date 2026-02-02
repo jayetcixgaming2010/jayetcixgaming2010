@@ -1,9 +1,22 @@
+<h1 align="center">🌐 Lê Trung Kiên — Personal Portfolio</h1>
+
+<p align="center">
+  <a href="https://letrungkienprofiles.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Website-online-brightgreen?style=for-the-badge" alt="Website Status" />
+  </a>
+  <a href="https://github.com/jayetcixgaming2010" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-jayetcixgaming2010-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
+  </a>
+  <img src="https://img.shields.io/badge/Made%20with-❤️%20%26%20HTML%2FCSS%2FJS-orange?style=for-the-badge" alt="Tech Stack" />
+</p>
+
+---
 <!-- header với ảnh / banner, bạn có thể đổi URL ảnh nếu muốn -->
-<h1 align="center">Xin chào 👋, mình là JayetcixGaming2010</h1>
+<h1 align="center">Xin chào 👋, mình là Lê Trung Kiên</h1>
 
 <p align="center">
   🎒 Học sinh cấp 3 | Đam mê lập trình  
-  🌱 Hiện tại mình học Python, JavaScript, HTML & CSS  
+  🌱 Hiện tại mình đang huấn luyện AI code Bot Discord, Website, App bằng Python, JavaScript, HTML & CSS  
   📚 Đang phát triển kỹ năng qua các dự án nhỏ & học tập  
 </p>
 
