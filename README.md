@@ -54,16 +54,12 @@
 
 ---
 
-## 📊 GitHub Statistics
+## 🎯 Current Focus
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayetcixgaming2010&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayetcixgaming2010&theme=tokyonight&hide_border=true" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayetcixgaming2010&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
+- 🌱 Improving my **Web Development** skills (HTML, CSS, JavaScript)
+- 🤖 Building and maintaining **Discord Bots** for server management
+- 🧠 Learning best practices in **clean code & project structure**
+- 🚀 Working towards becoming a **Fullstack Developer**
 
 ---
 
